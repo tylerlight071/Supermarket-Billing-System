@@ -38,5 +38,21 @@ void shopping ::menu()
     cout << "\t\t\t\t                        \n";
     cout << "\t\t\t\t 1. Administrator       \n";
     cout << "\t\t\t\t 2. Customer            \n";
-    
+    cout << "\t\t\t\t 3. Exit                \n";
+    cout << "\t\t\t\t                        \n";
+    cout << "\n\t Please Select Your Choice: \n";
+    cin >> choice;
+
+    switch (choice)
+    {
+        
+    case 1:
+    cout << "\n\t Enter Username: \n";
+    cin >> username;
+    cout << "\t Enter Password: \n";
+    cin >> password;
+
+    if 
+
+    }
 };
